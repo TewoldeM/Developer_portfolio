@@ -108,32 +108,32 @@ export const testimonials = [
   {
     quote:
       "Collaborating with Jeo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jeo's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jeo is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Emanual",
+    title: "Director of IBEX Technologies",
   },
   {
     quote:
       "Collaborating with Jeo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jeo's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jeo is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Emanual",
+    title: "Director of IBEX Technologies",
   },
   {
     quote:
       "Collaborating with Jeo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jeo's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jeo is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Emanual",
+    title: "Director of IBEX Technologies",
   },
   {
     quote:
       "Collaborating with Jeo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jeo's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jeo is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Emanual",
+    title: "Director of IBEX Technologies",
   },
   {
     quote:
       "Collaborating with Jeo was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Jeo's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Jeo is the ideal partner.",
-    name: "Michael Johnson",
-    title: "Director of AlphaStream Technologies",
+    name: "Emanual",
+    title: "Director of IBEX Technologies",
   },
 ];
 
